@@ -11,7 +11,7 @@ I work quite a bit in open source development, that said, it's typically the sam
 
 ### Java
 
-I am part of the OpenJDK team with Oracle, which manages development of the official
+I am a voluntary committer at OpenJDK, which manages development of the official
 [Java Development Kit](https://github.com/openjdk/jdk)
 and many related projects, used worldwide by devices to run applications written in the
 [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
